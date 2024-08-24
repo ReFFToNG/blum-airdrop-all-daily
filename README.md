@@ -51,7 +51,7 @@ Blum Airdrop Bot automates interactions with the Blum airdrop platform. It inclu
 
    - To find your `QUERY_ID`, follow these steps:
      1. Open [Web Telegram](https://web.telegram.org) in your browser.
-     2. Open the [Blum Bot](https://t.me/BlumCryptoBot/app?startapp=ref_vTHusRz4j0).
+     2. Open the [Blum Bot](https://t.me/blum/app?startapp=ref_Ysxl7Zfg2I).
      3. Open DevTools (right-click on the page and select "Inspect" or press `F12`).
      4. Go to the "Application" tab, then "Local Storage", and choose `https://telegram.blum.codes`.
      5. Find `QUERY_ID`, copy its value.
@@ -65,14 +65,6 @@ To start the bot, run:
 ```bash
 npm start
 ```
-
-## Donations
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
 
 ## License
 
