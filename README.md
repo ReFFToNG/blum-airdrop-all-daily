@@ -24,13 +24,13 @@ Blum Airdrop Bot automates interactions with the Blum airdrop platform. It inclu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/dante4rt/blum-airdrop-bot.git
+    git clone https://github.com/ReFFToNG/blum-airdrop-all-daily.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd blum-airdrop-bot
+    cd blum-airdrop-all-daily
     ```
 
 3. **Install dependencies:**
